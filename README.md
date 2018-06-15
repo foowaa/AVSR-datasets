@@ -1,6 +1,6 @@
 # AVSR-datasets
 
-### This repo contains: [`AVLetter`](https://drive.google.com/file/d/1RT1beWiBTyFHt6KlBwjlja9GyOyJ2zed/view?usp=sharing)[1], [`AVDigits`](https://drive.google.com/file/d/1ftS9GHYkOyQ-hQdFvamTblYyIWQCTWud/view?usp=sharing)[2] and [`AVLetters2`](https://drive.google.com/file/d/1QSlYMe_VEIDjHr59YX72kddKkYlkpT2i/view?usp=sharing)[3] AVSR datasets. These files are all on Google cloud.
+### This repo contains: [`AVLetters`](https://drive.google.com/file/d/1RT1beWiBTyFHt6KlBwjlja9GyOyJ2zed/view?usp=sharing)[1], [`AVDigits`](https://drive.google.com/file/d/1ftS9GHYkOyQ-hQdFvamTblYyIWQCTWud/view?usp=sharing)[2] and [`AVLetters2`](https://drive.google.com/file/d/1QSlYMe_VEIDjHr59YX72kddKkYlkpT2i/view?usp=sharing)[3] AVSR datasets. These files are all on Google cloud.
 
 > References:
 >
